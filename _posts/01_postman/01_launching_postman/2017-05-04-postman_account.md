@@ -31,6 +31,16 @@ Once you are logged in, you will see the **IN SYNC** icon at the top telling y
 
 [![sync icon](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/59135890.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/59135890.png)
 
+### Switching between user accounts
+
+
+
+
+
+
+
+
+
 ### Security policies and standards
 
 Postman uses several technologies to ensure that your data is safe and secure. For more details, visit our [security page](https://www.getpostman.com/security){:target="_blank"}.
