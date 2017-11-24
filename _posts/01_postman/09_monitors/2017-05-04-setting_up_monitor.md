@@ -18,20 +18,20 @@ You can create a monitor from the:
  
 ### Sidebar menu
 You can create a monitor for an existing collection from the sidebar.
-1. In the Postman app, click on the ellipses (…) next to the collection you wish to monitor. 
+In the Postman app, click on the ellipses (…) next to the collection you wish to monitor. 
 
 [![monitor dropdown](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/monitor_sidebar2.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/monitor_sidebar2.png)
 
-2. Select "Monitor Collection" to open the MONITOR COLLECTION screen.
-3. Enter a name for this monitor and choose a corresponding environment. 
-4. Add an appropriate [schedule for the monitor](/docs/postman/monitors/setting_up_monitor#monitoring-schedule), and configure [additional preferences](/docs/postman/monitors/setting_up_monitor#additional-preferences).
-5. Click the **Monitor this collection** button.
+* Select "Monitor Collection" to open the MONITOR COLLECTION screen.
+* Enter a name for this monitor and choose a corresponding environment. 
+* Add an appropriate [schedule for the monitor](/docs/postman/monitors/setting_up_monitor#monitoring-schedule), and configure [additional preferences](/docs/postman/monitors/setting_up_monitor#additional-preferences).
+* Click the **Monitor this collection** button.
 
 [![monitor modal](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/monitorCollectionScreen.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/monitorCollectionScreen.png)
 
 ### New button
 
-1. In the header toolbar, click the **New** button.
+In the header toolbar, click the **New** button.
 
 [![new button](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/HeaderToolBar.png)](https://s3.amazonaws.com/postman-static-getpostman-com/postman-docs/HeaderToolBar.png)
 
@@ -41,9 +41,9 @@ The "Create New" screen appears.
 
 **Note**: At the bottom of the screen you can select "Show this window at launch" to indicate whether you want the "Create New" screen to display each time you open Postman.
 
-2. Click "Monitor".
+* Click "Monitor".
 
-3. In the "Create a monitor" screen, you can create a monitor for a "New API", "My Collections", and "Team Library". 
+* In the "Create a monitor" screen, you can create a monitor for a "New API", "My Collections", and "Team Library". 
    * New API
      
      Enter a request path, status code, response code and click the **Next** button.
