@@ -29,3 +29,34 @@ Let's map the process with a simple illustration below:
 [`postman-echo.com`](https://docs.postman-echo.com/){:target="_blank"} is a sample API that Postman hosts for you to experiment with various types of requests. It returns the data that you send in the request as part of its response.
 
 Import this sample collection and refer to [documentation for this sample API](https://docs.postman-echo.com/){:target="_blank"}.
+
+### Saving requests to a collection
+From the launch screen or use the 
+In the header toolbar, click Request.
+
+IMAGE
+
+The Create New screen options appear.
+
+IMAGE
+
+In BUILDING BLOCKS, click Request.
+In the SAVE REQUEST screen: 
+Enter a title and description for your request. 
+Select a collection and save the request in it. 
+You can either create a new collection or select an existing one.
+
+
+IMAGE
+
+
+Click Save. Enter the URL, method, headers, and body to the request in the builder.
+
+You can also create a request when you launch Postman.
+
+IMAGE
+
+
+
+
+
